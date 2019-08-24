@@ -11,7 +11,7 @@ An A.I. C.A.P.T.C.H.A. Solver browser-extension for KissAnime written in JavaScr
 
 - OpenCV dev tools
 
-- python implementation of os-library and keras (might not be required)
+- python implementation of os-library,opencv and keras (might not be required)
 
 
 <br>
