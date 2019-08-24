@@ -36,7 +36,7 @@ Download the [release]() zip.
 
 
 <br><br>
-## FAQ regarding development:
+## F.A.Q. regarding development:
 
 
 
