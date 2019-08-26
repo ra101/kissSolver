@@ -34,25 +34,25 @@ function checkNumber(var option_possiblities){
 
 # Attack!
 
-1. [Download All Images](./docs/part1.md)
+1. [Download all images and create generic images](./docs/part1.md)
 
    - There is csv file in assets folder which contain links to multiple images.
+   
+   - Generic image:
 
-2. [Extract information regarding images and create generic Images and Numbers](./docs/part2.md)
+     ![levi](/assets/levi.PNG)
+     
+2. [Extract information regarding images and Numbers](./docs/part2.md)
 
    - Create two dictionary one of tags in images and other of their dimension
 
    - Extract Number image ![zero](/assets/zero.jpg)
 
-   - Create Generic image:
-
-     ![levi](/assets/levi.PNG)
-
-3. [Train Haar Cascade](./docs/part3.md)
+3. [Train Haar-Cascade](./docs/part3.md)
 
    - Using Generic Images and Number Create your own dataset of images and label them.
 
-4. [Train Convolutional Neural Network](./docs/part4.md)
+4. [Train Convolutional-Neural-Network](./docs/part4.md)
 
    - Now once we can identify Number from images, time to make small C.N.N. and train it on output of haar_cascade.detect(dataset)
 
