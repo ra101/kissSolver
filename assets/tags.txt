@@ -1,0 +1,121 @@
+medal,gold,one,first
+medal,silver,two,second
+medal,copper,third,three
+turtle,turtles,four,brown shell
+easily amused,amused,cat,easily
+angry bird,bird,red,angry,white cloud,yellow peak
+couple,cat and dog,cat,dog
+red cloak,boy,black hair
+arm,phone
+red hat,artist,emoji,emoticon
+basketball,boy
+boy,black hat,basketball
+bear,bear armour,armour,brown,armor,bear armor
+bird,blue,coffee
+bird,blue,sing
+boy,black clothes,sword
+boy,cycle,bicycle
+bear,green hat
+brown,hand,down
+brown,hand,left
+brown,arm,muscle
+brown,hand,ok
+brown,hand,up
+brown,hand,clap
+brown,hand,right
+brown,hand,write
+hold a carrot,carrot,bunny,rabbit,yellow
+red background,burger,two layers
+burger,green flag,flag,fries,drink
+white background,burger,three layers
+cat,book,read,glasses
+couple,pikachu,yawn,yellow,yellow pikachu
+couple,boy,girl,boy black hair,girl black skirt,girl gray clothes
+couple,boy black clothes,married,girl white clothes,girl gray hair,boy black hair
+girl,yellow skirt,white hat
+boy,bag,black hair,boy in bag
+boy,injured,green hair
+emoji,emoticon,red tail,red,devil
+dice,white,one
+green,dice,one
+dice,brown,one
+dice,red,six
+dog,bone,draw,no color
+dog,flower,butterfly
+girl,blue hair,black hair
+girl,red clothes
+emoji,emoticon,eat,apple
+emoji,emoticon,beer
+emoji,emoticon,coffee
+emoji,emoticon,eat,pizza
+emoji,emoticon,blue,pillow,blue pillow,zzz,sleep
+emoji,emoticon,cowboy,gun,brown hat,red scarf
+boy,black clothes,black and white
+bird,blue,fat,white belly,blue feathers
+brown,fist
+emoji,emoticon,eat,fork,knife
+garra,boy,no eyebrow,red hair
+girl,pink cloak,green hair
+girl,pink hair
+yellow hair,yellow,boy
+boy,golf
+girl,green clothes
+girl,black hair
+girl,black hair,guitar,buuny
+hand,yellow,clap
+hand,yellow,down
+hand,yellow,fist
+hand,yellow,left
+hand,yellow,ok
+hand,yellow,right
+hand,yellow,up
+hand,yellow,write
+hange,green cloak,glasses
+cat,happy birthday,ermmy,happy,birthday
+boy,scythe,gray hair
+boy,horse,ride
+cat,iphone love,iphone,love
+face,black mask,cup,mask,white hair
+fight me,boy,angry
+penguin,king
+cat,lazy,can't move
+levi,sword,black hair,boy,green cloak
+lion,draw,no color
+girl,lion,yellow hair
+girl,blue hair
+naruto,orange clothes,boy,yellow hair,ramen
+panda,black and white,bear
+penguin,fishing,ice
+penguin,doll,blue scarf,scarf
+pikachu,yellow,candy
+pikachu,yellow,angry,pout
+lion,pink
+cop,emoji,emoticon,police,whistle
+not fat,fat,poofy,cat
+boy,running,glasses
+dog,brown fur
+bunny,blue,carrot,rabbit,eat,num
+white,bunny,rabbit,carrot
+tiger,rawr,girl
+girl,yellow slug,pink hair
+sheep,white,white fur
+lion,smile
+zzz,pillow,cat,sleep
+slug,baseball,base ball,bat,green,ball
+emoji,emoticon,ice cream
+tutle,squirtle,draw,no color,stand
+medal,gold,star
+cloud,sun,rain
+boy,swim
+could,lightning,thunder,rain
+tiger,cup,black and white
+tiger,palm,above hand
+eat,turkey,pie,cat
+turtle,dolls,four
+white flag,tutle,green shell,flag
+dog,sit
+cat,gifts,meowy christmas,christmas,xmas,meowy
+girl,white clothes,tail
+bird,yellow,hammer,carpenter,lumberjack
+boy,yellow hair,tail
+cat,eat,yes,chicken,food
