@@ -49,7 +49,7 @@ function checkNumber(var option_possiblities){
 
      ![levi](/assets/levi.PNG)
 
-2. [Extract information regarding images and Numbers](./docs/part2.md)
+2. [Extract information regarding images and Numbers](/docs/part2.md)
 
    - Create two dictionary one of tags in images and other of their dimension
    - Extract Number image ![zero](../assets/zero.jpg)
