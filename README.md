@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./assets/fav-96.png">
+    <img src="/assets/fav-96.png">
 </p>
 
 <br>
@@ -11,31 +11,31 @@ An A.I. C.A.P.T.C.H.A. Solver browser-extension for KissAnime written in JavaScr
 
 - OpenCV dev tools
 
-- python implementation of os-library,opencv and keras (might not be required)
+- commandline use tensorflowjs 
 
+- python implementation of os-library, numpy, opencv and keras
+<p align='right'>keras or tensorflowjs <i>might</i> not be required</p>
 
 <br>
 
 ## Installation:
 
-Download the [release]() zip.
-
-- #### Firefox
-
-  1. open [about:addons](about:addons)
-  2. Click the ![firefox](./assets/firefox.PNG) and select "Install Add-on From File"
-  3. navigate to and select kissSolver-master.zip
+Download the [kissSolver-prerelease.zip](https://github.com/ra101/kissSolver/files/3552801/kissSolver-prerelease.zip)
 
 - #### Chrome
 
-  1. Unzip file save folder on local drive.
+  1. Unzip file and save the folder on local drive.
   2. open [chrome://extensions/](chrome://extensions/)
   3. Turn on "Developer mode" on top-right.
   4. Click on "Load unpacked"
   5. navigate to and select kissSolver unzipped folder
 
+- #### Others
 
-<br><br>
+  - Currently not working
+
+    
+
 ## F.A.Q. regarding development:
 
 
