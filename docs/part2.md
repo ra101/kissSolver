@@ -82,4 +82,4 @@ Just Extract numbers in num_img folder using *magic wand* of Photoshop/GIMP or u
 <br>
 
 [Previous Part](/docs/part1.md)
-[<p align='right'>Next Part</p>](/docs/part2.md)
+[<p align='right'>Next Part</p>](/docs/part3.md)
