@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./assets/fav-96.png">
+    <img src="/assets/fav-96.png">
 </p><br>
 
 # Part 2: Understanding the Rival!
