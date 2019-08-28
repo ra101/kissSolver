@@ -70,7 +70,8 @@ There are 2 ways
 Check [docs/index.md](docs/index.md).
 
 
-
+<br>
+**If you are a weeb/"otaku" and a dev too! This project needs you! Help make it better!**
 <br><br>
 
 ## A Special thanks to reddit user "Cloraxland" for below given post.
