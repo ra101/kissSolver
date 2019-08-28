@@ -48,4 +48,4 @@ Hence make all the images in 'gen_images' folder will be made.
 
 <br>
 
-[<p align='right'>Next Part</p>](./docs/part2.md)
+[<p align='right'>Next Part</p>](/docs/part2.md)
