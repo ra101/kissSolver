@@ -1,0 +1,25 @@
+{
+"name":"kissSolver",
+"version":"0.1",
+"manifest_version":2,
+"icons": {
+  "48": "assets/fav-48.png",
+  "96": "assets/fav-96.png"
+},
+"content_scripts": [
+    {
+      "matches": ["*://kissanime.ru/Special/AreYouHuman2?reUrl=*"],
+      "js": ["/assets/imageData.js","/js-libs/opencv.js","/js-libs/tf.js","/haar_cascade/cascade.js"],
+	   "run_at": "document_start"
+    },
+	{
+      "matches": ["*://kissanime.ru/Special/AreYouHuman2?reUrl=*"],
+      "js": ["solver.js"],
+	   "run_at": "document_end"
+    },
+    {
+        "matches": ["*://kissanime.ru/Special/AreYouHuman2"],
+        "js": ["wrong.js"]
+    }	
+  ]
+}
