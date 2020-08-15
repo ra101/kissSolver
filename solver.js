@@ -8,7 +8,7 @@ form.style.display='none'
 let status = document.getElementsByClassName('barTitle')[0];
 document.title = "Solving C.A.P.T.C.H.A.";
 let gif = document.createElement('img');
-gif.src = 'https://raw.githubusercontent.com/ra101/kissSolver/master/assets/loading.gif';
+gif.src = 'https://raw.githubusercontent.com/ra101/kissSolver/core/assets/loading.gif';
 gif.style.marginTop = '5%';
 document.getElementsByClassName('barContent')[0].appendChild(gif);
 
@@ -77,14 +77,14 @@ catch(e){
 cv.FS_createDataFile('/', 'cascade.xml',cascadeData , true, false, false);
 /*
 let utils = new Utils('errorMessage');
-utils.createFileFromUrl('cascade.xml', 'https://raw.githubusercontent.com/ra101/kissSolver/master/haar_cascade/cascade.xml', () => {
+utils.createFileFromUrl('cascade.xml', 'https://raw.githubusercontent.com/ra101/kissSolver/core/haar_cascade/cascade.xml', () => {
 });
 */
 haarCascade.load('cascade.xml');
 
 let cnn;
 (async () => {
-cnn = await tf.loadLayersModel('https://raw.githubusercontent.com/ra101/kissSolver/master/cnn/model.json'); 
+cnn = await tf.loadLayersModel('https://raw.githubusercontent.com/ra101/kissSolver/core/cnn/model.json'); 
 
 //// for Best Performance:
 status.innerText = 'Solving C.A.P.T.C.H.'
