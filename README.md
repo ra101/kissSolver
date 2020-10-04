@@ -1,11 +1,31 @@
+**R.I.P. KissAnime**
+
+*This project does not support pirated content. This is purely an educational project.*
+
+
+
+<div align="center">
+
+# kissSolver
+
+
 <p align="center">
-    <img src="/assets/fav-96.png">
+    <img src="./assets/fav-96.png">
 </p>
 
+
+![Made with JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-feab00?style=for-the-badge&logo=javascript)[![Stars](https://img.shields.io/github/stars/ra101/kissSolver?style=for-the-badge)](https://github.com/ra101/kissSolver/stargazers)[![Forks](https://img.shields.io/github/forks/ra101/kissSolver?style=for-the-badge)](https://github.com/ra101/kissSolver/network/members) [![Open Issues](https://img.shields.io/github/issues/ra101/kissSolver?style=for-the-badge)](https://github.com/ra101/kissSolver/issues)![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%98%95-red?style=for-the-badge&logo=open-source-initiative)  ![Built with Love](https://img.shields.io/badge/Built%20With-%E2%99%A1-critical?style=for-the-badge&logo=github) ![Maintained](https://img.shields.io/maintenance/no/2020?style=for-the-badge&logo=github)
+
+</div>
+
+
+An A.I. C.A.P.T.C.H.A. Solver browser-extension for KissAnime written in JavaScript with help of python.
+
+**Video Tutorial: [LRBY](https://lbry.tv/@ra101/kissSolver)  |  [YouTube](https://youtu.be/rjx8Dks-Xq0)**
+<br>
 <br>
 
-# kissSolver:
-An A.I. C.A.P.T.C.H.A. Solver browser-extension for KissAnime written in JavaScript with help of python. It was/is being developed with the help of:
+It was/is being developed with the help of:
 
 - tf.js and opencv.js
 
@@ -15,12 +35,17 @@ An A.I. C.A.P.T.C.H.A. Solver browser-extension for KissAnime written in JavaScr
 
 - python implementation of os-library, numpy, opencv and keras
 <p align='right'>keras or tensorflowjs <i>might</i> not be required</p>
+<br>
+
+## Donations:
+
+<a href="https://www.buymeacoffee.com/ra101"><img src="https://www.buymeacoffee.com/assets/img/custom_images/black_img.png" title="If this project is helpful to you and love my work and feel like showing love/appreciation, would you like to buy me a coffee?" ></a>
 
 <br>
 
 ## Installation:
 
-Download the [kissSolver-prerelease.zip](https://github.com/ra101/kissSolver/files/3552801/kissSolver-prerelease.zip)
+Download the [kissSolver](https://github.com/ra101/kissSolver/releases)
 
 - #### Chrome
 
