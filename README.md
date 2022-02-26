@@ -22,10 +22,16 @@
 An A.I. C.A.P.T.C.H.A. Solver browser-extension for KissAnime written in JavaScript with help of python.
 
 **Video Tutorial: [LRBY](https://lbry.tv/@ra101/kissSolver)  |  [YouTube](https://youtu.be/rjx8Dks-Xq0)**
+
+
+https://user-images.githubusercontent.com/34714949/155849980-42333af9-a014-4fcb-b530-a6e2cd024a4a.mp4
+
+
+
 <br>
 <br>
 
-It was/is being developed with the help of:
+It was being developed with the help of:
 
 - tf.js and opencv.js
 
